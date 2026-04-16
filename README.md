@@ -19,5 +19,5 @@ This repository contains my progress and exercises from the **C# Complete Course
 * **Logic:** Implementation of algorithms using `for`, `while`, and `if/else`.
 
 ## 📩 Contact
-* **LinkedIn: https://www.linkedin.com/in/felipe-lima-developer/
-* **Email: felipehenl122@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/felipe-lima-developer/
+* **Email:** felipehenl122@gmail.com
