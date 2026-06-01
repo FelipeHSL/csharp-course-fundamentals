@@ -13,6 +13,7 @@ This repository contains my progress and exercises from the **C# Complete Course
 * **section-04:** Introduction to Object-Oriented Programming (Classes, attributes, methods, and static members).
 * **section-05:** Encapsulation, Constructors, and Properties.
 * **section-06:** Memory Management (Stack vs Heap), Nullable types, Arrays, and Lists.
+* **section-08:** Practical consolidation and advanced programmatic logic exercises.
 
 ## 🎯 Key Concepts Applied
 * **POO:** Classes, Objects, and Methods.
@@ -22,6 +23,7 @@ This repository contains my progress and exercises from the **C# Complete Course
 * **Collections:** Professional use of List<T> to manage dynamic data sets.
 * **Lambda Expressions:** Using anonymous functions for efficient data searching and filtering (e.g., .Find, .FindAll, .RemoveAll).
 * **Performance:** Understanding the impact of Boxing and Unboxing in C# performance.
+* **Code Consolidation (Section 08):** Applied structural logic patterns to solve real-world problem sets under C# performance constraints.
 
 ## 📩 Contact
 * **LinkedIn:** https://www.linkedin.com/in/felipe-lima-developer/
