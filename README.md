@@ -15,6 +15,8 @@ This repository contains my progress and exercises from the **C# Complete Course
 * **section-06:** Memory Management (Stack vs Heap), Nullable types, Arrays, and Lists.
 * **section-08:** Practical consolidation and advanced programmatic logic exercises.
 * **section-09:** Inheritance, Polymorphism, Upcasting/Downcasting, and Abstract Classes.
+* **section-10:** Exception Handling (Try-Catch-Finally) and Custom Domain Exceptions.
+* **section-11:** File System Manipulation, Stream Architecture, and I/O Operations.
 
 ## 🎯 Key Concepts Applied
 * **POO:** Classes, Objects, and Methods.
@@ -27,6 +29,10 @@ This repository contains my progress and exercises from the **C# Complete Course
 * **Code Consolidation:** Applied structural logic patterns to solve real-world problem sets under C# performance constraints.
 * **Type Casting :** Safe data type transformations utilizing Upcasting and Downcasting mechanisms.
 * **Abstract Layers:** Designing generic blueprints with Abstract Classes and Abstract Methods to enforce backend architecture contracts.
+* **Robust Exception Architecture :** Mastered error-handling workflows using `try`, `catch`, and `finally` blocks. Built customized domain exceptions (`DomainException`) to enforce clean architectural boundaries and prevent application crashes.
+* **File I/O Operations :** Implemented file system interactions using C# core classes (`File`, `FileInfo`, `Directory`, and `DirectoryInfo`).
+* **Stream Management :** Learned how to efficiently handle data streams using `StreamReader` and `StreamWriter`, applying the modern C# `using` block pattern for automatic resource disposal and memory leaks prevention.
+
 
 
 ## 📩 Contact
