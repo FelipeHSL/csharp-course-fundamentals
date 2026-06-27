@@ -17,6 +17,7 @@ This repository contains my progress and exercises from the **C# Complete Course
 * **section-09:** Inheritance, Polymorphism, Upcasting/Downcasting, and Abstract Classes.
 * **section-10:** Exception Handling (Try-Catch-Finally) and Custom Domain Exceptions.
 * **section-11:** File System Manipulation, Stream Architecture, and I/O Operations.
+* **section-12:** Interfaces, Dependency Injection (DI), and Inversion of Control (IoC).
 
 ## 🎯 Key Concepts Applied
 * **POO:** Classes, Objects, and Methods.
@@ -32,6 +33,8 @@ This repository contains my progress and exercises from the **C# Complete Course
 * **Robust Exception Architecture :** Mastered error-handling workflows using `try`, `catch`, and `finally` blocks. Built customized domain exceptions (`DomainException`) to enforce clean architectural boundaries and prevent application crashes.
 * **File I/O Operations :** Implemented file system interactions using C# core classes (`File`, `FileInfo`, `Directory`, and `DirectoryInfo`).
 * **Stream Management :** Learned how to efficiently handle data streams using `StreamReader` and `StreamWriter`, applying the modern C# `using` block pattern for automatic resource disposal and memory leaks prevention.
+* **Decoupled Architecture:** Mastered the use of Interfaces to decouple application components, applying **Inversion of Control (IoC)** and **Dependency Injection (DI)** principles to build mockable, scalable backend services.
+
 
 
 
