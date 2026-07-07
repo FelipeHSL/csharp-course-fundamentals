@@ -18,6 +18,7 @@ This repository contains my progress and exercises from the **C# Complete Course
 * **section-10:** Exception Handling (Try-Catch-Finally) and Custom Domain Exceptions.
 * **section-11:** File System Manipulation, Stream Architecture, and I/O Operations.
 * **section-12:** Interfaces, Dependency Injection (DI), and Inversion of Control (IoC).
+* **section-13:** Generics, Type Constraints, Equality Collections (HashSet), and Key-Value Mapping (Dictionary).
 
 ## 🎯 Key Concepts Applied
 * **POO:** Classes, Objects, and Methods.
@@ -34,6 +35,9 @@ This repository contains my progress and exercises from the **C# Complete Course
 * **File I/O Operations :** Implemented file system interactions using C# core classes (`File`, `FileInfo`, `Directory`, and `DirectoryInfo`).
 * **Stream Management :** Learned how to efficiently handle data streams using `StreamReader` and `StreamWriter`, applying the modern C# `using` block pattern for automatic resource disposal and memory leaks prevention.
 * **Decoupled Architecture:** Mastered the use of Interfaces to decouple application components, applying **Inversion of Control (IoC)** and **Dependency Injection (DI)** principles to build mockable, scalable backend services.
+* **Type-Safe Abstract Code:** Implemented reusable logic frameworks through **Generics** and type constraints, drastically reducing code duplication while enforcing compile-time type safety.
+* **High-Performance Collections:** Deep dive into performance optimization using **HashSet<T>** for unique entity indexing and **Dictionary<TKey, TValue>** for instant data retrieval (O(1) time complexity).
+
 
 
 
